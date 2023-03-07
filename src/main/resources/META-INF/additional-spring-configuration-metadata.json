@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "server.port-9090",
+  "type": "java.lang.String",
+  "description": "A description for 'server.port-9090'"
+}]}
